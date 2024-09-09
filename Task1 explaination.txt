@@ -1,0 +1,5 @@
+From the problem statement, I understood that my task was to visualize the population data of various countries over the years using provided CSV files. In the Python code, I loaded the population data and metadata, cleaned and merged the datasets, and organized the data to show the population figures over time. I created bar charts and histograms using Matplotlib, which display the population distribution across different countries and years.
+
+The resulting visualizations illustrate how the population has changed over time, with the x-axis representing the countries or years and the y-axis showing the population numbers. Each bar in the bar chart corresponds to a specific country, allowing for a clear visual representation of population sizes. The histogram shows the distribution of population across all countries in a specific year, highlighting trends in population growth or decline. The graphs are designed to be visually appealing and easy to understand, making them accessible for anyone looking to analyze demographic changes globally.
+
+All steps were executed in Google Colab, ensuring a smooth and efficient workflow.
